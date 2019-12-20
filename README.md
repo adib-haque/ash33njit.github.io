@@ -1,1 +1,2 @@
-Website files for IS117 project 4
+Website files for final IS 117 Project
+By Adib Haque
