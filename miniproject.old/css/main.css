@@ -106,9 +106,11 @@ textarea {
   font-family: SansSerif, "Helvetica Neue", Helvetica;
 
 }
+
 #logo {
   float: left;
 }
+
 #masthead {
   clear: both;
   background-image: url("../img/BackgroundGradient.jpg");
@@ -118,6 +120,7 @@ textarea {
   line-height: 64px;
   margin-bottom: 10px;
 }
+
 #masthead_landing {
   clear: both;
   background-image: url("../img/BackgroundGradient.jpg");
@@ -127,58 +130,71 @@ textarea {
   line-height: 366px;
   margin-bottom: 10px;
 }
+
 #masthead h1 {
   margin: 0px;
   padding: 0px;
 }
+
 #primary_menu {
   float: right;
 }
+
 #primary_menu li {
   display: inline;
   line-height: 120px;
 }
+
 #primary_menu menu {
   margin: 0px;
   padding: 0px;
 }
+
 #content {
   width: 593px;
   float: left;
 }
+
 #content_landing {
   width: 100%;
 }
+
 #sidebar {
   width: 367px;
   float: left;
 }
+
 #sidebar_image {
   height: 320px;
   width: 294px;
   margin-left: auto;
   margin-right: auto;
 }
+
 #sidebar2 {
   width: 367px;
   float: right;
 }
+
 #sidebar_image2 {
   height: 320px;
   width: 294px;
   margin-left: auto;
   margin-right: auto;
 }
+
 #footer {
   text-align: center;
   height: 120px;
   clear: both;
 }
+
 #article_body {
   padding-right: 24px;
   padding-left: 24px;
 
 }
+
 #callout_one, #callout_two, #callout_three {
   float: left;
   width: 298px;
@@ -189,6 +205,7 @@ textarea {
   margin-right: 10px;
   padding-left: 10px;
 }
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
@@ -283,9 +300,9 @@ textarea {
 }
 
 @media print,
-  (-webkit-min-device-pixel-ratio: 1.25),
-  (min-resolution: 1.25dppx),
-  (min-resolution: 120dpi) {
+(-webkit-min-device-pixel-ratio: 1.25),
+(min-resolution: 1.25dppx),
+(min-resolution: 120dpi) {
   /* Style adjustments for high resolution devices */
 }
 
@@ -306,16 +323,20 @@ textarea {
     box-shadow: none !important;
     text-shadow: none !important;
   }
+
   a,
   a:visited {
     text-decoration: underline;
   }
+
   a[href]:after {
     content: " (" attr(href) ")";
   }
+
   abbr[title]:after {
     content: " (" attr(title) ")";
   }
+
   /*
      * Don't show links that are fragment identifiers,
      * or use the `javascript:` pseudo protocol
@@ -324,14 +345,17 @@ textarea {
   a[href^="javascript:"]:after {
     content: "";
   }
+
   pre {
     white-space: pre-wrap !important;
   }
+
   pre,
   blockquote {
     border: 1px solid #999;
     page-break-inside: avoid;
   }
+
   /*
      * Printing Tables:
      * https://web.archive.org/web/20180815150934/http://css-discuss.incutio.com/wiki/Printing_Tables
@@ -339,16 +363,19 @@ textarea {
   thead {
     display: table-header-group;
   }
+
   tr,
   img {
     page-break-inside: avoid;
   }
+
   p,
   h2,
   h3 {
     orphans: 3;
     widows: 3;
   }
+
   h2,
   h3 {
     page-break-after: avoid;

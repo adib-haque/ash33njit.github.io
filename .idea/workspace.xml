@@ -1,50 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91e07c1c-a596-4888-9603-67ffa8b652e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/browserconfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/css/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/TOC.md" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/doc/TOC.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/css.md" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/doc/css.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/extend.md" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/doc/extend.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/faq.md" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/doc/faq.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/html.md" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/doc/html.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/js.md" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/doc/js.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/misc.md" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/doc/misc.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/usage.md" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/doc/usage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documents/Resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/documents/Resume.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/humans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/humans.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/img/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/AdibHaqueHeadshot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/img/AdibHaqueHeadshot.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/AwesomeFLayoutLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/img/AwesomeFLayoutLogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/AwesomeZLayoutLogo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/img/AwesomeZLayoutLogo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/BackgroundGradient.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/img/BackgroundGradient.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/MiniProjectLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/img/MiniProjectLogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/js/plugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/js/vendor/jquery-3.4.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/modernizr-3.7.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/js/vendor/modernizr-3.7.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/site.webmanifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tile-wide.png" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/tile-wide.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tile.png" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/tile.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writings.html" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/writings.html" afterDir="false" />
-    </list>
+    <list default="true" id="91e07c1c-a596-4888-9603-67ffa8b652e4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +36,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/miniproject.old" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/css" />
@@ -114,7 +72,7 @@
       <workItem from="1575677561567" duration="6043000" />
       <workItem from="1576795134739" duration="831000" />
       <workItem from="1576814679557" duration="3287000" />
-      <workItem from="1576873772713" duration="992000" />
+      <workItem from="1576873772713" duration="1319000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Initial Commit">
       <created>1574551809342</created>
@@ -326,7 +284,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576873915830</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Update to Bootstrap site">
+      <created>1576875281803</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1576875281803</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Task: Update to Bootstrap site">
+      <created>1576875400724</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1576875400724</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,8 +321,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Task: Initial Commit" />
-    <MESSAGE value="Task: Add README.MD File" />
     <MESSAGE value="Task: Added Headshot of Myself on Website" />
     <MESSAGE value="Feature: Project Menu Button Links to GitHub" />
     <MESSAGE value="Feature: Contact button opens mail application to email me" />
@@ -374,17 +344,19 @@
     <MESSAGE value="Update: Footer Changes" />
     <MESSAGE value="Update: Projects Information Added" />
     <MESSAGE value="Feature: Addition of Writings menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Addition of Writings menu" />
+    <MESSAGE value="Update to Bootstrap site" />
+    <MESSAGE value="Task: Update to Bootstrap site" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Update to Bootstrap site" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="23" key="CommitChangelistDialog2" timestamp="1576875300632">
+    <state x="0" y="23" key="CommitChangelistDialog2" timestamp="1576875400488">
       <screen x="0" y="23" width="1280" height="713" />
     </state>
-    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1280.713@0.23.1280.713" timestamp="1576875300632" />
-    <state x="240" y="119" key="Vcs.Push.Dialog.v2" timestamp="1576875310645">
+    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1280.713@0.23.1280.713" timestamp="1576875400488" />
+    <state x="240" y="119" key="Vcs.Push.Dialog.v2" timestamp="1576875534569">
       <screen x="0" y="23" width="1280" height="713" />
     </state>
-    <state x="240" y="119" key="Vcs.Push.Dialog.v2/0.23.1280.713@0.23.1280.713" timestamp="1576875310645" />
+    <state x="240" y="119" key="Vcs.Push.Dialog.v2/0.23.1280.713@0.23.1280.713" timestamp="1576875534569" />
     <state x="423" y="164" key="chooseDestDirectoryDialog" timestamp="1576873999695">
       <screen x="0" y="23" width="1280" height="713" />
     </state>

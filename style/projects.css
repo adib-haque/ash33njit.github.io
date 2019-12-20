@@ -1,46 +1,46 @@
 /*DEVELOPER: Adib Haque, IS117-101, Fall 2019 */
 * {
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 body {
-  overflow-x: hidden;
-  overflow-y: scroll;
-  left: 0;
-  background: #98ccff;
-  color: #292b2c;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    left: 0;
+    background: #98ccff;
+    color: #292b2c;
 }
 
 .header {
-  width: 100%;
-  color: #292b2c;
+    width: 100%;
+    color: #292b2c;
 }
 
 .roles,
 .awards,
 .image {
-  margin-top: 10vh;
+    margin-top: 10vh;
 }
 
 p {
-  color: #292b2c;
+    color: #292b2c;
 }
 
 li {
-  color: #292b2c;
+    color: #292b2c;
 }
 
 .sub-image {
-  width: 100%;
-  height: auto;
+    width: 100%;
+    height: auto;
 }
 
 img {
-  width: 100%;
-  height: auto;
+    width: 100%;
+    height: auto;
 }
 
 .sub li {
-  list-style-type: circle;
+    list-style-type: circle;
 }
