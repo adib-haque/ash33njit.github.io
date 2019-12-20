@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91e07c1c-a596-4888-9603-67ffa8b652e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/browserconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/TOC.md" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/doc/TOC.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/css.md" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/doc/css.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/extend.md" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/doc/extend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/faq.md" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/doc/faq.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/html.md" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/doc/html.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/js.md" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/doc/js.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/misc.md" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/doc/misc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/usage.md" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/doc/usage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documents/Resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/documents/Resume.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/humans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/humans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/img/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/AdibHaqueHeadshot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/img/AdibHaqueHeadshot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/AwesomeFLayoutLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/img/AwesomeFLayoutLogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/AwesomeZLayoutLogo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/img/AwesomeZLayoutLogo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/BackgroundGradient.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/img/BackgroundGradient.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/MiniProjectLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/img/MiniProjectLogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/js/plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendor/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/js/vendor/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendor/modernizr-3.7.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/js/vendor/modernizr-3.7.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/site.webmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile-wide.png" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/tile-wide.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile.png" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/tile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/writings.html" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject.old/writings.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1U23AklcJqQIKHFvT3s1WO30KmV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/miniproject.old" />
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91e07c1c-a596-4888-9603-67ffa8b652e4" name="Default Changelist" comment="" />
+      <created>1574540721754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574540721754</updated>
+      <workItem from="1574540723852" duration="3334000" />
+      <workItem from="1574565527026" duration="153000" />
+      <workItem from="1574565798729" duration="7892000" />
+      <workItem from="1574574913648" duration="95000" />
+      <workItem from="1575666125308" duration="274000" />
+      <workItem from="1575677561567" duration="6043000" />
+      <workItem from="1576795134739" duration="831000" />
+      <workItem from="1576814679557" duration="3287000" />
+      <workItem from="1576873772713" duration="992000" />
+    </task>
+    <task id="LOCAL-00001" summary="Task: Initial Commit">
+      <created>1574551809342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574551809342</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task: Add README.MD File">
+      <created>1574552009914</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574552009914</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Task: Added Headshot of Myself on Website">
+      <created>1574552132388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574552132388</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Feature: Project Menu Button Links to GitHub">
+      <created>1574552297330</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574552297330</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Feature: Contact button opens mail application to email me">
+      <created>1574552355817</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574552355817</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Task: Added Background To Website">
+      <created>1574552554108</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574552554108</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Feature: Added Resume to Website">
+      <created>1574552806628</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574552806628</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Feature: Added Logo To Website">
+      <created>1574553105651</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574553105651</updated>
+    </task>
+    <task id="LOCAL-00009" summary="TASK: Logo Update">
+      <created>1574553343484</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574553343484</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Task: README.MD Update">
+      <created>1574553557881</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574553557881</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Task: Added Copyright to Footer">
+      <created>1574553727393</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574553727393</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Task: Added Copyright to Footer">
+      <created>1574553792595</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1574553792595</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Feature: Added Resume HTML and Incorporated Resume to Site">
+      <created>1574570106350</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1574570106350</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Task: CSS File Update">
+      <created>1574570960689</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1574570960689</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Task: Code Updates">
+      <created>1574571853417</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1574571853417</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Task: Code Updates">
+      <created>1574571893149</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1574571893149</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Task: Code Updates">
+      <created>1574571933804</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1574571933804</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Task: Variable Updates">
+      <created>1574572686136</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1574572686136</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Task: HTML &amp; CSS Code Updates">
+      <created>1574574731683</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1574574731683</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Task: HTML Updates">
+      <created>1574574990566</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1574574990566</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Feature: Contact Form">
+      <created>1575682854574</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1575682854574</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Fix: Menu Updates">
+      <created>1575683106214</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1575683106214</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Fix: Menu Updates">
+      <created>1575683143669</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1575683143669</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Fix: Contact Page">
+      <created>1575683246404</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1575683246404</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Feature: Logo Update">
+      <created>1575683566922</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1575683566922</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Task: Menu Addition">
+      <created>1575684808475</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1575684808475</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Update: Footer Changes">
+      <created>1575684975819</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1575684975819</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Update: Projects Information Added">
+      <created>1575686738447</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1575686738447</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Feature: Addition of Writings menu">
+      <created>1575687303692</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1575687303692</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Feature: Addition of Writings menu">
+      <created>1576873915826</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1576873915830</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Task: Initial Commit" />
+    <MESSAGE value="Task: Add README.MD File" />
+    <MESSAGE value="Task: Added Headshot of Myself on Website" />
+    <MESSAGE value="Feature: Project Menu Button Links to GitHub" />
+    <MESSAGE value="Feature: Contact button opens mail application to email me" />
+    <MESSAGE value="Task: Added Background To Website" />
+    <MESSAGE value="Feature: Added Resume to Website" />
+    <MESSAGE value="Feature: Added Logo To Website" />
+    <MESSAGE value="TASK: Logo Update" />
+    <MESSAGE value="Task: README.MD Update" />
+    <MESSAGE value="Task: Added Copyright to Footer" />
+    <MESSAGE value="Feature: Added Resume HTML and Incorporated Resume to Site" />
+    <MESSAGE value="Task: CSS File Update" />
+    <MESSAGE value="Task: Code Updates" />
+    <MESSAGE value="Task: Variable Updates" />
+    <MESSAGE value="Task: HTML &amp; CSS Code Updates" />
+    <MESSAGE value="Task: HTML Updates" />
+    <MESSAGE value="Feature: Contact Form" />
+    <MESSAGE value="Fix: Menu Updates" />
+    <MESSAGE value="Fix: Contact Page" />
+    <MESSAGE value="Feature: Logo Update" />
+    <MESSAGE value="Task: Menu Addition" />
+    <MESSAGE value="Update: Footer Changes" />
+    <MESSAGE value="Update: Projects Information Added" />
+    <MESSAGE value="Feature: Addition of Writings menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Addition of Writings menu" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="23" key="CommitChangelistDialog2" timestamp="1576875300632">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1280.713@0.23.1280.713" timestamp="1576875300632" />
+    <state x="240" y="119" key="Vcs.Push.Dialog.v2" timestamp="1576875310645">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state x="240" y="119" key="Vcs.Push.Dialog.v2/0.23.1280.713@0.23.1280.713" timestamp="1576875310645" />
+    <state x="423" y="164" key="chooseDestDirectoryDialog" timestamp="1576873999695">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state x="423" y="164" key="chooseDestDirectoryDialog/0.23.1280.713@0.23.1280.713" timestamp="1576873999695" />
+    <state x="423" y="303" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576873937327">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state x="423" y="303" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.713@0.23.1280.713" timestamp="1576873937327" />
+  </component>
+</project>
