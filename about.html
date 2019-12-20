@@ -1,140 +1,238 @@
-<!doctype html>
-<html class="no-js" lang="">
+<!-- DEVELOPER: Adib Haque, IS117-101, Fall 2019 -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154881897-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-154881897-1');
+</script>
+
+
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <title></title>
-  <meta content="" name="description">
-  <meta content="width=device-width, initial-scale=1" name="viewport">
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="ie=edge" http-equiv="X-UA-Compatible">
+    <title>Document</title>
+    <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lekton&display=swap" rel="stylesheet">
+    <link href="style/font.css" rel="stylesheet">
+    <link href="style/about.css" rel="stylesheet">
 
-  <link href="site.webmanifest" rel="manifest">
-  <link href="icon.png" rel="apple-touch-icon">
-  <!-- Place favicon.ico in the root directory -->
-
-  <link href="css/normalize.css" rel="stylesheet">
-  <link href="css/main.css" rel="stylesheet">
-
-  <meta content="#fafafa" name="theme-color">
 </head>
 
 <body>
-<!--[if IE]>
-<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade
-  your browser</a> to improve your experience and security.</p>
-<![endif]-->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="index.html"><strong>Adib Haque</strong> </a>
 
-<!-- Add your site or application content here -->
-<div id="wrapper">
-  <div id="header">
-    <div id="logo">
-      <a href="index.html"><img height="120" src="img/MiniProjectLogo.png" width="369"/></a>
+    <button aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"
+            class="navbar-toggler"
+            data-target="#navbarNavDropdown" data-toggle="collapse" type="button">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="about.html"><strong> About</strong></a>
+
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="contact.html"><strong>Contact</strong> </a>
+
+            </li>
+            <li class="nav-item dropdown">
+                <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown"
+                   href="#" id="navbarDropdownMenuLink">
+                    <strong>Projects</strong>
+                </a>
+
+                <div aria-labelledby="navbarDropdownMenuLink" class="dropdown-menu">
+                    <a class="dropdown-item" href="projects/all-projects.html"> <strong>View All
+                        Projects</strong> </a>
+                    <a class="dropdown-item" href="projects/projects.html"> <strong> Class Projects</strong></a>
+                    <a class="dropdown-item" href="projects/writings.html"> <strong>Tutorials/Writings</strong> </a>
+
+
+                </div>
+            </li>
+        </ul>
     </div>
-    <div id="primary_menu">
-      <menu>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="resume.html">Resume</a></li>
-        <li><a href="projects.html">Project</a></li>
-        <li><a href="writings.html">Writings</a></li>
-        <li><a href="contact.html">Contact</a></li>
-      </menu>
+</nav>
+<div>
+    <div id="sidebar">
+        <div id="sidebar_image">
+            <img height="294" src="images/AdibHaqueHeadshot.jpg" width="294"/>
+        </div>
     </div>
-    <div id="masthead">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 about1">
+                <h3>
+                    Hello, my name is Adib Haque, an NJIT student studying Information Systems!
+                    Welcome to my website!
+                </h3>
+                <hr>
+            </div>
+
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 about2">
+                <p class="about-font" style="font-weight: normal">
+                    Technology is a passion of mine that has had my heart since a young age.
+                    I love to keep up to date and learn about the newest hardware, services,
+                    software, and trends. Some of my hobbies include photography, graphic design, music,
+                    entrepreneurship, watching football, and gaming. Currently I work for an Apple Campus Store as an
+                    assistant manager and am going through training to become an Apple Certified Technician.
+                    I do recreational street photography under the moniker ShotByHadiibz.
+                    In Summer 2019 I officially started my First Business called To Your Peak.
+                    The company offers services such as Social Media Marketing & Management,
+                    Content Creation, Web Design, and Vendor Resources.
+                    Staying busy and constantly learning are goals I strive for.
+
+                </p>
+                <hr>
+            </div>
+
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 about3">
+                <h4>Links to Some of My Favorite Things!</h4>
+                <h5>
+                    <ul class="about-links">
+                        <li>
+                            <a class="about-links" href="https://www.instagram.com/shotbyhadiibz/"
+                               rel="noopener noreferrer"
+                               target="_blank">
+                                My Photography Page, ShotByHadiibz</a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/toyourpeak/" rel="noopener noreferrer"
+                               target="_blank">
+                                My Business Page, To Your Peak
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.philadelphiaeagles.com/" rel="noopener noreferrer"
+                               target="_blank">
+                                My Favorite Football Team, The Philadelphia Eagles
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.forbes.com/sites/gilpress/2019/12/03/141-cybersecurity-predictions-for-2020/#628d1eba1bc5"
+                               rel="noopener noreferrer"
+                               target="_blank">
+                                Security Technology Possibilities that Intrigue me
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/watch?v=Sh3AXwolioQ" rel="noopener noreferrer"
+                               target="_blank">
+                                One of My Favorite Youtube Content Creators, Rooster Teeth
+                            </a>
+                        </li>
+                    </ul>
+                </h5>
+                <hr>
+            </div>
+
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 about4">
+                <h4>Music I've Been Playing Lately!</h4>
+                <div>
+
+                    <iframe allow="encrypted-media"
+                            allowtransparency="true" frameborder="0" height="380"
+                            src="https://open.spotify.com/embed/playlist/1KHjrPzJfjmbB3cgqUP0NH"
+                            width="300"></iframe>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-  <div id="content">
-    <div id="heading">
-      <h1>Article Heading</h1>
-    </div>
-    <div id="article_body">
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla tristique leo hendrerit tristique.
-        Pellentesque erat sem, viverra id blandit vehicula, molestie ut tellus. Maecenas pulvinar, dui sit amet
-        condimentum
-        mattis, tortor quam ullamcorper leo, eu feugiat eros felis vel neque. Proin congue tellus sed risus malesuada
-        ullamcorper. Nunc maximus non odio fringilla placerat. Pellentesque in malesuada nulla. Quisque vel posuere
-        elit.
-        Etiam et nisi et tellus euismod aliquam et sed ante. Aliquam in tempus dolor. Donec molestie magna sed nisi
-        dignissim, ut dapibus tortor pretium. Praesent eu mollis risus. Aliquam congue et orci ac ultricies. Sed
-        scelerisque
-        tempor justo, quis mollis dui egestas at. Sed blandit tellus justo, vitae mattis dolor facilisis sit amet. Ut
-        ultricies tellus elit, non vulputate mauris fringilla sit amet. Aliquam commodo, velit et laoreet vulputate,
-        diam
-        orci lobortis velit, in eleifend lacus tellus et enim.
-      </p>
-      <p>
-        Aenean nec accumsan nulla. Praesent nisl arcu, faucibus eu pretium ac, volutpat ultricies ex. Etiam luctus velit
-        et
-        elit suscipit molestie. Sed facilisis, lorem vitae accumsan volutpat, nulla tortor tempor ex, mollis varius
-        lacus
-        justo id risus. Fusce enim urna, interdum sit amet molestie ac, ullamcorper sed orci. Curabitur placerat odio ac
-        ex
-        auctor, ut pellentesque dolor viverra. In sit amet dolor eu justo tristique facilisis in eget risus. Nullam
-        congue
-        ipsum ac quam mollis lobortis. Morbi at efficitur lacus, nec malesuada odio. Nullam varius ligula enim, nec
-        tincidunt sapien feugiat vitae.
-      </p>
-      <p>
-        Mauris accumsan urna eu facilisis commodo. Sed aliquet dui quis posuere tempor. Aenean non velit cursus, laoreet
-        lorem a, mattis leo. Donec sollicitudin arcu justo, egestas mollis mi aliquam at. Suspendisse ultrices libero a
-        massa congue, a auctor ipsum sagittis. Mauris dignissim sit amet libero sit amet condimentum. Sed eget aliquam
-        lacus. Fusce urna velit, tincidunt in diam eget, hendrerit dictum dui. Ut iaculis urna at mauris volutpat, sed
-        eleifend diam sagittis.
-      </p>
-      <p>
-        Cras sit amet leo nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget erat non est
-        efficitur
-        suscipit eu vel enim. Suspendisse eu consequat massa. Phasellus placerat magna leo, quis congue erat commodo
-        auctor.
-        Sed maximus dictum nunc, eu semper odio eleifend id. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      </p>
-      <p>
-        Sed eu nisl sed nulla bibendum euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet
-        tellus sapien. Phasellus vitae dignissim magna, id feugiat nulla. In consectetur risus vel tempus mollis. Sed
-        lobortis maximus tellus ut volutpat. Nunc malesuada volutpat dapibus. Duis in vulputate arcu. Suspendisse
-        ultricies
-        leo a lorem pulvinar, eget auctor nisl laoreet. Morbi vitae vehicula nisl. Donec vulputate massa tortor, quis
-        maximus metus sagittis in. Suspendisse potenti. Sed dignissim, felis vel condimentum accumsan, ante urna semper
-        sem,
-        non scelerisque magna neque eget tellus. In ac elementum lorem. Integer vel augue cursus, molestie lectus ac,
-        suscipit nibh.
-      </p>
-    </div>
-  </div>
-  <div id="sidebar">
-    <div id="sidebar_image">
-      <img height="294" src="img/AdibHaqueHeadshot.jpg" width="294"/>
-    </div>
-  </div>
-  <div id="footer">
-    © Adib Haque & Thomas Diaz -
-    <script type="text/javascript">
-        var d = new Date()
-        document.write(d.getFullYear())
-    </script>
-  </div>
 </div>
+<!-- <footer id="sticky-footer" class="py-4 bg-dark text-white-50">
+    <div class="container text-center">
+        <small>Copyright &copy; Your Website</small>
+    </div>
+</footer> -->
+<footer style="background-color: white">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 text-center text-md-left ">
+                <div class="py-0">
+                    <br>
+                    <hr>
+
+                    <p class="footer-links font-weight-bold " style="color: black;">
+                        <a href="./index.html" style="color: black;">Home</a>
+                        |
+                        <a href="./about.html" style="color: black;">About</a>
+                        |
+                        <a href="./contact.html" style="color: black;">Contact</a>
+                        |
+                        <a href="./projects/all-projects.html" style="color: black;">Projects</a>
+                    </p>
+
+                </div>
+            </div>
 
 
-<script src="js/vendor/modernizr-3.7.1.min.js"></script>
+            <div class="col-md-4 text-white text-center text-md-left ">
+                <br>
+                <hr>
+
+                <div class="py-0 ">
+                    <div>
+                        <p style="color: black;"><i class="fa fa-phone  mx-2 "></i> +1 862-596-2231</p>
+                    </div>
+                    <div>
+                        <p><i class="fa fa-envelope  mx-2"></i><a
+                                href="mailto:ash33@njit.edu">ash33@njit.edu</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 text-center text-md-left ">
+                <div class="py-0">
+                    <br>
+                    <hr>
+
+                    <p class="footer-links font-weight-bold " style="color: black;">
+                    <p style="color: black;">© Adib Haque 2019</p>
+
+                    <p style="color: black;">Terms of Service</p>
+
+                    <p style="color: black;">Privacy Policy</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<!-- <footer class="footer">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4-sm">
+                <p> <strong> © Adib Haque 2019</strong></p>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4-sm">
+                <p> <strong>Terms of Service</strong></p>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4-sm">
+                <p> <strong>Privacy Policy</strong></p>
+            </div>
+        </div>
+    </div>
+</footer> -->
 <script crossorigin="anonymous"
-        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-<script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
-<script src="js/plugins.js"></script>
-<script src="js/main.js"></script>
-
-<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
-<script>
-    window.ga = function () {
-        ga.q.push(arguments)
-    };
-    ga.q = [];
-    ga.l = +new Date;
-    ga('create', 'UA-XXXXX-Y', 'auto');
-    ga('set', 'transport', 'beacon');
-    ga('send', 'pageview')
-</script>
-<script async src="https://www.google-analytics.com/analytics.js"></script>
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+<script crossorigin="anonymous"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script crossorigin="anonymous"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 </body>
 
 </html>
